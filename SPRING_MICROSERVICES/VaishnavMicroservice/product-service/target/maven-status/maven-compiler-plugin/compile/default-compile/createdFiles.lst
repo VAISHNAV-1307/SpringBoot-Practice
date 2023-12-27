@@ -1,0 +1,5 @@
+com\vaishnav\productservice\controller\ProductController.class
+com\vaishnav\productservice\model\Product.class
+com\vaishnav\productservice\repository\ProductRepo.class
+com\vaishnav\productservice\service\ProductService.class
+com\vaishnav\productservice\ProductServiceApplication.class

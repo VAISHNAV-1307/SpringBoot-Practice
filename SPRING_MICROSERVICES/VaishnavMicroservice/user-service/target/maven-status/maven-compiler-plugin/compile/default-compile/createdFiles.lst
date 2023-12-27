@@ -1,0 +1,7 @@
+com\vaishnav\userservice\service\UserService.class
+com\vaishnav\userservice\config\Config.class
+com\vaishnav\userservice\model\User.class
+com\vaishnav\userservice\model\Product.class
+com\vaishnav\userservice\repository\UserRepo.class
+com\vaishnav\userservice\controller\UserController.class
+com\vaishnav\userservice\UserServiceApplication.class
